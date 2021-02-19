@@ -6,9 +6,9 @@
 ## 使用
 双击打开index.html即可在浏览器里调试运行代码。
 ## 截图
-![首页](screenshots/screenshot-Babylang.png)
+![首页](https://github.com/tanfurui/Babylang/blob/main/screenshots/screenshot-Babylang.png)
 ## 项目许可
 MIT
 ## 捐赠
 如果本项目能对您有所帮助，欢迎打赏，以支持作者开发更多优质的项目，衷心感谢您！
-![捐赠](qrcode_donate.png)
+![捐赠](https://github.com/tanfurui/Babylang/blob/main/qrcode_donate.png)
